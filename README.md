@@ -78,3 +78,6 @@ If you find any issues with the code or would like to enhance it, please feel fr
 
 This code is not licenced.
 
+## Note
+
+This code is not compiled and tested
